@@ -64,8 +64,7 @@ This project demonstrates several Object-Oriented Programming (OOP) principles. 
 - **Representation**: Two functionalities are supported between the `Order` and `Product` classes, meaning advantages of both classes are used together.
 - **Usage**: This is used when extending the `Order` class with additional properties and functions without altering the fundamental structure of the `Product` class. Multiple inheritance facilitates the combination of features from different classes while avoiding code duplication.
 
-These OOP principles make the code more organized, maintainable, and extensible, providing a solid foundation for building a versatile e-commerce system.
-
+ 
 
  
 
