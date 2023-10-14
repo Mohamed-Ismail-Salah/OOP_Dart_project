@@ -1,4 +1,4 @@
-# My Dart E-commerce App
+# My OOP Dart E-commerce App
 
 Welcome to the My Dart e-commerce app! This project is a simple command-line e-commerce application created to practice object-oriented programming principles using Dart. It helps in clarifying the principles of object-oriented programming. It allows users to log in, create accounts, and shop for various products.!
 
