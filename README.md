@@ -29,11 +29,8 @@ This project follows an object-oriented programming (OOP) approach to enhance ma
 - **User Class**: Manages user accounts, including registration, login, and profile information.
 - **Product Class**: Represents the products available for purchase. Contains product details such as name, description, price, and availability.
 - **Category Class**: Organizes products into categories (Books, Clothes, Electronics).
-- **Cart Class**: Handles the user's shopping cart, allowing users to add and remove items.
-- **Order Class**: Represents an order, including the products selected and their quantities. Allows users to view and cancel orders.
-- **Profile Class**: Manages user profiles, including personal information and order history.
-- **Main Application Class**: Orchestrates the interactions between users, products, categories, carts, and orders. Implements the command-line interface for user interactions.
-
+- **Order Class**: Represents an order, including the products selected and their quantities. Allows users to view orders.
+ 
 
 ## Object-Oriented Programming (OOP) Principles in the Code
 
